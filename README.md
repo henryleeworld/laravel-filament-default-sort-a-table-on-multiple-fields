@@ -1,4 +1,4 @@
-# Laravel 11 Filament 預設依據多個欄位排序表格
+# Laravel 12 Filament 預設依據多個欄位排序表格
 
 Filament 預設依據多個欄位排序表格採用快速建立簡捷的 TALL（Tailwind CSS、Alpine.js、Laravel 和 Livewire）堆疊應用程式的工具組，如果沒有套用其他排序方式，您可以選擇預設依據多個欄位進行排序。
 
@@ -27,5 +27,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/x3hvTu3.png)
+![](https://i.imgur.com/KIJSdn1.png)
 > 預設依據樓層和房間號碼欄位排序表格
